@@ -1,0 +1,16 @@
+{
+  "name": "encrypt",
+  "version": "0.0.3",
+  "description": "\"pruebas para usar encritacion de dos caminos en node\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector Contreras",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "yargs": "^17.5.1"
+  }
+}
