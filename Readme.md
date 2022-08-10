@@ -23,7 +23,16 @@ se deben de instalar un par de paquetes para que la aplicacion funcine correctam
 ```
 npm install
 ```
+#### para ejecutar
+solo se debe correr el siguiente comando desde la raiz del proyecto
 
+```
+npm app
+```
+### documentacion a seguir
+
+- __crypto-js:__ https://www.npmjs.com/package/crypto-js
+ 
 ---
 
 ##### Lo que se usa en este ejemplo
